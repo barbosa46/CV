@@ -67,8 +67,6 @@ function execute(command){
             addResult(interests);
             break;
         case "all":
-            addResult(hi);
-            addResult(help);
             addResult(basics);
             addResult(education);
             addResult(courses);
