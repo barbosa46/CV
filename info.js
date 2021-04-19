@@ -1,7 +1,7 @@
 const hi = `<p>> hi<br>
 Hi! I am your virtual assistant!<br>
 I know everything you need know about my creator.<br>
-Actually, he is constantly updating my knowledge, so if you. don't find what you want, maybe you can come back later!<br>
+Actually, he is constantly updating my knowledge, so if you don't find what you want, maybe you can come back later!<br>
 Type 'help' to list all the commands.<br>
 Have fun :)</p>`;
 
